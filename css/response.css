@@ -1,0 +1,263 @@
+@media screen and (max-width:1440px){
+  .quick_menu{
+    right: 120px;
+  }
+}
+@media screen and (max-width:790px){
+  .left_wrap{
+    display: none;
+  }
+  .best_image{
+    width: 150px;
+  }
+  .best_items>.best_detail{
+    width: 119px;
+    bottom: 0px;
+    height: 50%;
+    border-radius: 0 0 10px 10px;
+  }
+  .best_items>span{
+    right: -55px;
+  }
+   .new_item .new_item_text>a{
+    font-size: 13px;
+  }
+  .new_item .new_item_text .new_price{
+    width: 100px;
+    flex-wrap: wrap;
+    line-height: 0.8rem;
+  }
+  .new_item .new_item_text{
+    line-height: 1.2rem;
+  }
+  .new_item .new_item_text .new_price>span{
+    font-size: 13px;
+  }
+  .new_item .new_item_text .new_price p{
+    font-size: 13px;
+  }
+  .new_item .new_item_text .new_price h5{
+    color: red;
+    font-weight: bold;
+    font-size: 13px;
+  }
+  .new_item .new_item_text .color{
+    padding-top: 0.4rem;
+  }
+  .new_item ul{
+  }
+  .new_item ul li{
+    height: 290px;
+  }
+  .insta_item ul li{
+    width: 45%;
+  }
+  .insta_item ul li .bac{
+    width: 100%;
+    height: 100%;
+  }
+  .insta_item ul{
+    padding-bottom: 1rem;
+  }
+  .quick_menu{
+    right: 10px;
+    bottom: 170px;
+  }
+}
+@media screen and (max-width:390px){
+  .title{
+    font-size: 1.2rem;
+  }
+  .d1{
+    font-size: 0.8rem;
+  }
+  .t1{
+    line-height: 1.3rem;
+  }
+  .left_wrap{
+    display: none;
+  }
+  .btn2{
+    padding: 0 15px;
+  }
+  .main_slide{
+    height: 450px;
+  }
+  .mainSwiper .swiper-slide{
+    width: 100%;
+    height: 450px;
+    padding: 0 20px;
+  }
+  .mainSwiper .swiper-slide-active{
+    height: 450px;
+  }
+  .mainSwiper .options .page_option{
+    bottom: 100px;
+    left: 120px;
+  }
+  .mainSwiper .swiper-slide .slide_text{
+    left: 10%;
+    top: 7%;
+  }
+  .mainSwiper .swiper-slide .slide_text h2{
+    font-size: 1.1rem;
+    letter-spacing: -0.05rem;
+  }
+  .mainSwiper .swiper-slide .slide_text p{
+    padding-top: 1rem;
+  }
+  .mainSwiper .swiper-slide .slide_text a span{}
+  .mainSwiper .options .btns{
+    bottom: 76px;
+    left: 212px;
+  }
+  .live_video_inner p{
+    left: 10px;
+    top: 70px;
+    font-size: 1.5rem;
+    line-height: 2rem;
+  }
+  .best_top{
+    padding-top: 2rem;
+  }
+  .best_image{
+    width: 150px;
+  }
+  .best_items>.best_detail{
+    width: 119px;
+    bottom: 0px;
+    height: 50%;
+    border-radius: 0 0 10px 10px;
+  }
+  .new_text{
+    left: 5%;
+  }
+  .new_text h3{
+    font-size: 1rem;
+    line-height: 1.3rem;
+  }
+  .new_text p{
+    padding-top: 0.5rem;
+  }
+  .quick_menu{
+    right: 10px;
+    bottom: 170px;
+  }
+  .new_item .new_item_text>a{
+    font-size: 13px;
+  }
+  .new_item .new_item_text .new_price{
+    width: 100px;
+    flex-wrap: wrap;
+    line-height: 0.8rem;
+  }
+  .new_item .new_item_text{
+    line-height: 1.2rem;
+  }
+  .new_item .new_item_text .new_price>span{
+    font-size: 13px;
+  }
+  .new_item .new_item_text .new_price p{
+    font-size: 13px;
+  }
+  .new_item .new_item_text .new_price h5{
+    color: red;
+    font-weight: bold;
+    font-size: 13px;
+  }
+  .new_item .new_item_text .color{
+    padding-top: 0.4rem;
+  }
+  .new_item ul{
+  }
+  .new_item ul li{
+    height: 290px;
+  }
+  .cupon_wrap .cupon_left{
+
+  }
+  .cupon_wrap .cupon_left_text{
+    
+  }
+  .cupon_wrap .coupon_left h4{
+    font-size: 1rem;
+    line-height: 1.3rem;
+  }
+  .cupon_wrap .coupon_left span{
+    font-weight: 400;
+    font-size: 0.8rem;
+  }
+  .cupon_wrap::after{
+    right: 105px;
+  }
+  .cupon_wrap::before{
+    right: 105px;
+  }
+  .banner_text{
+    top: 90px;
+  }
+  .banner_text h4{
+    font-size: 1.2rem;
+  }
+  .banner_text p{
+    padding-top: 0rem;
+  }
+  .banner_hover>img{
+    border-radius: 0;
+  }
+  .insta_item ul li{
+    width: 45%;
+  }
+  .insta_item ul li .bac{
+    width: 100%;
+    height: 100%;
+  }
+  .insta_item ul{
+    padding-bottom: 1rem;
+  }
+  .footer{
+    height: 120px;
+  }
+  .footer_inner p{
+    margin-top: 0.3rem;
+  }
+  .btns_fixed ul li a span{
+    font-size: 0.74rem;
+  }
+  .btns_fixed ul li{
+    padding: 10px;
+  }
+  .menu.active{
+    top:-1px;
+    width: 100%;
+    height: 40px;
+  }
+  .nav{
+  }
+  .nav_menu{
+  }
+  .nav .nav_menu a{
+    font-size: 1.8rem;
+  }
+  .nav .logo{
+  }
+  .nav .logo a img{
+    width: 170px;
+    margin-left: 2rem;
+  }
+  .nav .search{
+  }
+  .nav .search a{
+    font-size: 1.8rem;
+  }
+  .menu_inner{}
+  .menu_inner ul{
+    padding: 10px;
+  }
+  .menu_inner ul li a{
+    font-size: 0.85rem;
+  }
+  .menu_inner ul li a i{
+    font-size: 0.85rem;
+  }
+}
